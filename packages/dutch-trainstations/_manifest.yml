@@ -1,0 +1,6 @@
+name: "dutch-trainstations"
+title: "Dutch Trainstations"
+description: "Abrreviations for the railway stations in The Netherlands, used by the dutch railways. In two directions: from abbreviation to station and vice versa."
+version: 0.1
+author: Jan-Willem Swane
+tags: ["dutch","abbreviations","train stations","nederlands","afkortingen","spoor","stations"]

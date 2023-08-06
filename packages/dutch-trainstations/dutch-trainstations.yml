@@ -1,0 +1,3203 @@
+# Abrreviations for the railway stations in The Netherlands, used by the dutch railways / Afkortingen voor de Nederlandse stations gebruikt door de Nederlandse spoorwegmaatschappijen, zoals de NS, 
+
+
+matches:
+
+# From station to abbreviation
+
+  - trigger: "#stAalten"
+    replace: "Atn"
+    word: true
+
+  - trigger: "#stAbcoude"
+    replace: "Ac"
+    word: true
+
+  - trigger: "#stAkkrum"
+    replace: "Akm"
+    word: true
+
+  - trigger: "#stAlkmaar"
+    replace: "Amr"
+    word: true
+
+  - trigger: "#stAlkmaarNoord"
+    replace: "Amrn"
+    word: true
+
+  - trigger: "#stAlmelo"
+    replace: "Aml"
+    word: true
+
+  - trigger: "#stAlmelodeRiet"
+    replace: "Amri"
+    word: true
+
+  - trigger: "#stAlmereBuiten"
+    replace: "Almb"
+    word: true
+
+  - trigger: "#stAlmereCentrum"
+    replace: "Alm"
+    word: true
+
+  - trigger: "#stAlmereMuziekwijk"
+    replace: "Almm"
+    word: true
+
+  - trigger: "#stAlmereOostvaarders"
+    replace: "Almo"
+    word: true
+
+  - trigger: "#stAlmereParkwijk"
+    replace: "Almp"
+    word: true
+
+  - trigger: "#stAlmerePoort"
+    replace: "Ampo"
+    word: true
+
+  - trigger: "#stAlphenaandenRijn"
+    replace: "Apn"
+    word: true
+
+  - trigger: "#stAmersfoortCentraal"
+    replace: "Amf"
+    word: true
+
+  - trigger: "#stAmersfoortSchothorst"
+    replace: "Amfs"
+    word: true
+
+  - trigger: "#stAmersfoortVathorst"
+    replace: "Avat"
+    word: true
+
+  - trigger: "#stAmsterdamAmstel"
+    replace: "Asa"
+    word: true
+
+  - trigger: "#stAmsterdamArenA"
+    replace: "Asdar"
+    word: true
+
+  - trigger: "#stAmsterdamBijlmerArenA"
+    replace: "Asb"
+    word: true
+
+  - trigger: "#stAmsterdamCentraal"
+    replace: "Asd"
+    word: true
+
+  - trigger: "#stAmsterdamHolendrecht"
+    replace: "Asdh"
+    word: true
+
+  - trigger: "#stAmsterdamLelylaan"
+    replace: "Asdl"
+    word: true
+
+  - trigger: "#stAmsterdamMuiderpoort"
+    replace: "Asdm"
+    word: true
+
+  - trigger: "#stAmsterdamRAI"
+    replace: "Rai"
+    word: true
+
+  - trigger: "#stAmsterdamSciencePark"
+    replace: "Assp"
+    word: true
+
+  - trigger: "#stAmsterdamSloterdijk"
+    replace: "Ass"
+    word: true
+
+  - trigger: "#stAmsterdamZuid"
+    replace: "Asdz"
+    word: true
+
+  - trigger: "#stAnnaPaulowna"
+    replace: "Ana"
+    word: true
+
+  - trigger: "#stApeldoorn"
+    replace: "Apd"
+    word: true
+
+  - trigger: "#stApeldoornDeMaten"
+    replace: "Apdm"
+    word: true
+
+  - trigger: "#stApeldoornOsseveld"
+    replace: "Apdo"
+    word: true
+
+  - trigger: "#stAppingedam"
+    replace: "Apg"
+    word: true
+
+  - trigger: "#stArkel"
+    replace: "Akl"
+    word: true
+
+  - trigger: "#stArnemuiden"
+    replace: "Arn"
+    word: true
+
+  - trigger: "#stArnhemCentraal"
+    replace: "Ah"
+    word: true
+
+  - trigger: "#stArnhemPresikhaaf"
+    replace: "Ahpr"
+    word: true
+
+  - trigger: "#stArnhemVelperpoort"
+    replace: "Ahp"
+    word: true
+
+  - trigger: "#stArnhemZuid"
+    replace: "Ahz"
+    word: true
+
+  - trigger: "#stAssen"
+    replace: "Asn"
+    word: true
+
+  - trigger: "#stBaarn"
+    replace: "Brn"
+    word: true
+
+  - trigger: "#stBaflo"
+    replace: "Bf"
+    word: true
+
+  - trigger: "#stBarendrecht"
+    replace: "Brd"
+    word: true
+
+  - trigger: "#stBarneveldCentrum"
+    replace: "Bnc"
+    word: true
+
+  - trigger: "#stBarneveldNoord"
+    replace: "Bnn"
+    word: true
+
+  - trigger: "#stBedum"
+    replace: "Bdm"
+    word: true
+
+  - trigger: "#stBeek-Elsloo"
+    replace: "Bk"
+    word: true
+
+  - trigger: "#stBeesd"
+    replace: "Bsd"
+    word: true
+
+  - trigger: "#stBeilen"
+    replace: "Bl"
+    word: true
+
+  - trigger: "#stBergenopZoom"
+    replace: "Bgn"
+    word: true
+
+  - trigger: "#stBest"
+    replace: "Bet"
+    word: true
+
+  - trigger: "#stBeverwijk"
+    replace: "Bv"
+    word: true
+
+  - trigger: "#stBilthoven"
+    replace: "Bhv"
+    word: true
+
+  - trigger: "#stBlerick"
+    replace: "Br"
+    word: true
+
+  - trigger: "#stBloemendaal"
+    replace: "Bll"
+    word: true
+
+  - trigger: "#stBodegraven"
+    replace: "Bdg"
+    word: true
+
+  - trigger: "#stBorne"
+    replace: "Bn"
+    word: true
+
+  - trigger: "#stBoskoop"
+    replace: "Bsk"
+    word: true
+
+  - trigger: "#stBoskoopSnijdelwijk"
+    replace: "Bsks"
+    word: true
+
+  - trigger: "#stBoven-Hardinxveld"
+    replace: "Bhdv"
+    word: true
+
+  - trigger: "#stBovenkarspelFlora"
+    replace: "Bkf"
+    word: true
+
+  - trigger: "#stBovenkarspel-Grootebroek"
+    replace: "Bkg"
+    word: true
+
+  - trigger: "#stBoxmeer"
+    replace: "Bmr"
+    word: true
+
+  - trigger: "#stBoxtel"
+    replace: "Btl"
+    word: true
+
+  - trigger: "#stBreda"
+    replace: "Bd"
+    word: true
+
+  - trigger: "#stBreda-Prinsenbeek"
+    replace: "Bdpb"
+    word: true
+
+  - trigger: "#stBreukelen"
+    replace: "Bkl"
+    word: true
+
+  - trigger: "#stBrummen"
+    replace: "Bmn"
+    word: true
+
+  - trigger: "#stBuitenpost"
+    replace: "Bp"
+    word: true
+
+  - trigger: "#stBunde"
+    replace: "Bde"
+    word: true
+
+  - trigger: "#stBunnik"
+    replace: "Bnk"
+    word: true
+
+  - trigger: "#stBussumZuid"
+    replace: "Bsmz"
+    word: true
+
+  - trigger: "#stCapelleSchollevaar"
+    replace: "Cps"
+    word: true
+
+  - trigger: "#stCastricum"
+    replace: "Cas"
+    word: true
+
+  - trigger: "#stChevremont"
+    replace: "Cvm"
+    word: true
+
+  - trigger: "#stCoevorden"
+    replace: "Co"
+    word: true
+
+  - trigger: "#stCuijk"
+    replace: "Ck"
+    word: true
+
+  - trigger: "#stCulemborg"
+    replace: "Cl"
+    word: true
+
+  - trigger: "#stDaarlerveen"
+    replace: "Da"
+    word: true
+
+  - trigger: "#stDalen"
+    replace: "Dln"
+    word: true
+
+  - trigger: "#stDalfsen"
+    replace: "Dl"
+    word: true
+
+  - trigger: "#stDeVink"
+    replace: "Dvnk"
+    word: true
+
+  - trigger: "#stDeinum"
+    replace: "Dei"
+    word: true
+
+  - trigger: "#stDelden"
+    replace: "Ddn"
+    word: true
+
+  - trigger: "#stDelft"
+    replace: "Dt"
+    word: true
+
+  - trigger: "#stDelftCampus"
+    replace: "Dtz"
+    word: true
+
+  - trigger: "#stDelfzijl"
+    replace: "Dz"
+    word: true
+
+  - trigger: "#stDelfzijlWest"
+    replace: "Dzw"
+    word: true
+
+  - trigger: "#stDenDolder"
+    replace: "Dld"
+    word: true
+
+  - trigger: "#stDenHaagCentraal"
+    replace: "Gvc"
+    word: true
+
+  - trigger: "#stDenHaagHS"
+    replace: "Gv"
+    word: true
+
+  - trigger: "#stDenHaagLaanvanNOI"
+    replace: "Laa"
+    word: true
+
+  - trigger: "#stDenHaagMariahoeve"
+    replace: "Gvm"
+    word: true
+
+  - trigger: "#stDenHaagMoerwijk"
+    replace: "Gvmw"
+    word: true
+
+  - trigger: "#stDenHaagYpenburg"
+    replace: "Ypb"
+    word: true
+
+  - trigger: "#stDenHelder"
+    replace: "Hdr"
+    word: true
+
+  - trigger: "#stDenHelderZuid"
+    replace: "Hdrz"
+    word: true
+
+  - trigger: "#stDeurne"
+    replace: "Dn"
+    word: true
+
+  - trigger: "#stDeventer"
+    replace: "Dv"
+    word: true
+
+  - trigger: "#stDeventerColmschate"
+    replace: "Dvc"
+    word: true
+
+  - trigger: "#stDeventerDeScheg"
+    replace: "Dvt"
+    word: true
+
+  - trigger: "#stDeWestereen"
+    replace: "Dwe"
+    word: true
+
+  - trigger: "#stDidam"
+    replace: "Did"
+    word: true
+
+  - trigger: "#stDiemen"
+    replace: "Dmn"
+    word: true
+
+  - trigger: "#stDiemenZuid"
+    replace: "Dmnz"
+    word: true
+
+  - trigger: "#stDieren"
+    replace: "Dr"
+    word: true
+
+  - trigger: "#stDoetinchem"
+    replace: "Dtc"
+    word: true
+
+  - trigger: "#stDoetinchemDeHuet"
+    replace: "Dtch"
+    word: true
+
+  - trigger: "#stDordrecht"
+    replace: "Ddr"
+    word: true
+
+  - trigger: "#stDordrechtStadspolders"
+    replace: "Ddrs"
+    word: true
+
+  - trigger: "#stDordrechtZuid"
+    replace: "Ddzd"
+    word: true
+
+  - trigger: "#stDriebergen-Zeist"
+    replace: "Db"
+    word: true
+
+  - trigger: "#stDriehuis"
+    replace: "Drh"
+    word: true
+
+  - trigger: "#stDronryp"
+    replace: "Drp"
+    word: true
+
+  - trigger: "#stDronten"
+    replace: "Dron"
+    word: true
+
+  - trigger: "#stDuiven"
+    replace: "Dvn"
+    word: true
+
+  - trigger: "#stDuivendrecht"
+    replace: "Dvd"
+    word: true
+
+  - trigger: "#stEcht"
+    replace: "Ec"
+    word: true
+
+  - trigger: "#stEdeCentrum"
+    replace: "Edc"
+    word: true
+
+  - trigger: "#stEde-Wageningen"
+    replace: "Ed"
+    word: true
+
+  - trigger: "#stEemshaven"
+    replace: "Eem"
+    word: true
+
+  - trigger: "#stEijsden"
+    replace: "Edn"
+    word: true
+
+  - trigger: "#stEindhovenCentraal"
+    replace: "Ehv"
+    word: true
+
+  - trigger: "#stEindhovenStrijp-S"
+    replace: "Ehs"
+    word: true
+
+  - trigger: "#stEindhovenStadion"
+    replace: "Ehst"
+    word: true
+
+  - trigger: "#stElst"
+    replace: "Est"
+    word: true
+
+  - trigger: "#stEmmen"
+    replace: "Emn"
+    word: true
+
+  - trigger: "#stEmmenZuid"
+    replace: "Emnz"
+    word: true
+
+  - trigger: "#stEnkhuizen"
+    replace: "Ekz"
+    word: true
+
+  - trigger: "#stEnschede"
+    replace: "Es"
+    word: true
+
+  - trigger: "#stEnschedeDeEschmarke"
+    replace: "Ese"
+    word: true
+
+  - trigger: "#stEnschedeKennispark"
+    replace: "Esk"
+    word: true
+
+  - trigger: "#stErmelo"
+    replace: "Eml"
+    word: true
+
+  - trigger: "#stEtten-Leur"
+    replace: "Etn"
+    word: true
+
+  - trigger: "#stEygelshoven"
+    replace: "Egh"
+    word: true
+
+  - trigger: "#stEygelshovenMarkt"
+    replace: "Eghm"
+    word: true
+
+  - trigger: "#stFeanwâlden"
+    replace: "Fwd"
+    word: true
+
+  - trigger: "#stFraneker"
+    replace: "Fn"
+    word: true
+
+  - trigger: "#stGaanderen"
+    replace: "Gdr"
+    word: true
+
+  - trigger: "#stGeldermalsen"
+    replace: "Gdm"
+    word: true
+
+  - trigger: "#stGeldrop"
+    replace: "Gp"
+    word: true
+
+  - trigger: "#stGeleenOost"
+    replace: "Gln"
+    word: true
+
+  - trigger: "#stGeleen-Lutterade"
+    replace: "Lut"
+    word: true
+
+  - trigger: "#stGilze-Rijen"
+    replace: "Gz"
+    word: true
+
+  - trigger: "#stGlanerbrug"
+    replace: "Gbr"
+    word: true
+
+  - trigger: "#stGoes"
+    replace: "Gs"
+    word: true
+
+  - trigger: "#stGoor"
+    replace: "Go"
+    word: true
+
+  - trigger: "#stGorinchem"
+    replace: "Gr"
+    word: true
+
+  - trigger: "#stGouda"
+    replace: "Gd"
+    word: true
+
+  - trigger: "#stGoudaGoverwelle"
+    replace: "Gdg"
+    word: true
+
+  - trigger: "#stGramsbergen"
+    replace: "Gbg"
+    word: true
+
+  - trigger: "#stGrijpskerk"
+    replace: "Gk"
+    word: true
+
+  - trigger: "#stGroningen"
+    replace: "Gn"
+    word: true
+
+  - trigger: "#stGroningenEuropapark"
+    replace: "Gerp"
+    word: true
+
+  - trigger: "#stGroningenNoord"
+    replace: "Gnn"
+    word: true
+
+  - trigger: "#stGrou-Jirnsum"
+    replace: "Gw"
+    word: true
+
+  - trigger: "#stHaarlem"
+    replace: "Hlm"
+    word: true
+
+  - trigger: "#stHaarlemSpaarnwoude"
+    replace: "Hlms"
+    word: true
+
+  - trigger: "#stHalfweg-Zwanenburg"
+    replace: "Hwzw"
+    word: true
+
+  - trigger: "#st'tHarde"
+    replace: "Hde"
+    word: true
+
+  - trigger: "#stHardenberg"
+    replace: "Hdb"
+    word: true
+
+  - trigger: "#stHarderwijk"
+    replace: "Hd"
+    word: true
+
+  - trigger: "#stHardinxveldBlauweZoom"
+    replace: "Hbzm/Bzm"
+    word: true
+
+  - trigger: "#stHardinxveld-Giessendam"
+    replace: "Gnd/Hag"
+    word: true
+
+  - trigger: "#stHaren"
+    replace: "Hrn"
+    word: true
+
+  - trigger: "#stHarlingen"
+    replace: "Hlg"
+    word: true
+
+  - trigger: "#stHarlingenHaven"
+    replace: "Hlgh"
+    word: true
+
+  - trigger: "#stHeemskerk"
+    replace: "Hk"
+    word: true
+
+  - trigger: "#stHeemstede-Aerdenhout"
+    replace: "Had"
+    word: true
+
+  - trigger: "#stHeerenveen"
+    replace: "Hr"
+    word: true
+
+  - trigger: "#stHeerenveenIJsstadion"
+    replace: "Hrij/Hry"
+    word: true
+
+  - trigger: "#stHeerhugowaard"
+    replace: "Hwd"
+    word: true
+
+  - trigger: "#stHeerlen"
+    replace: "Hrl"
+    word: true
+
+  - trigger: "#stHeerlenWoonboulevard"
+    replace: "Hrlw"
+    word: true
+
+  - trigger: "#stHeeze"
+    replace: "Hze"
+    word: true
+
+  - trigger: "#stHeiloo"
+    replace: "Hlo"
+    word: true
+
+  - trigger: "#stHeino"
+    replace: "Hno"
+    word: true
+
+  - trigger: "#stHelmond"
+    replace: "Hm"
+    word: true
+
+  - trigger: "#stHelmondBrandevoort"
+    replace: "Hmbv"
+    word: true
+
+  - trigger: "#stHelmondBrouwhuis"
+    replace: "Hmbh"
+    word: true
+
+  - trigger: "#stHelmond'tHout"
+    replace: "Hmh"
+    word: true
+
+  - trigger: "#stHemmen-Dodewaard"
+    replace: "Hmn"
+    word: true
+
+  - trigger: "#stHengelo"
+    replace: "Hgl"
+    word: true
+
+  - trigger: "#stHengeloGezondheidspark"
+    replace: "Hglg"
+    word: true
+
+  - trigger: "#stHengeloOost"
+    replace: "Hglo"
+    word: true
+
+  - trigger: "#st's-Hertogenbosch"
+    replace: "Ht"
+    word: true
+
+  - trigger: "#st's-HertogenboschOost"
+    replace: "Hto"
+    word: true
+
+  - trigger: "#stHillegom"
+    replace: "Hil"
+    word: true
+
+  - trigger: "#stHilversum"
+    replace: "Hvs"
+    word: true
+
+  - trigger: "#stHilversumNoord"
+    replace: "Hvsn"
+    word: true
+
+  - trigger: "#stHilversumSportpark"
+    replace: "Hvsp"
+    word: true
+
+  - trigger: "#stHindeloopen"
+    replace: "Hnp"
+    word: true
+
+  - trigger: "#stHoensbroek"
+    replace: "Hb"
+    word: true
+
+  - trigger: "#stHoevelaken"
+    replace: "Hvl"
+    word: true
+
+  - trigger: "#stHollandscheRading"
+    replace: "Hor"
+    word: true
+
+  - trigger: "#stHolten"
+    replace: "Hon"
+    word: true
+
+  - trigger: "#stHoofddorp"
+    replace: "Hfd"
+    word: true
+
+  - trigger: "#stHoogeveen"
+    replace: "Hgv"
+    word: true
+
+  - trigger: "#stHoogezand-Sappemeer"
+    replace: "Hgz"
+    word: true
+
+  - trigger: "#stHoogkarspel"
+    replace: "Hks"
+    word: true
+
+  - trigger: "#stHoorn"
+    replace: "Hn"
+    word: true
+
+  - trigger: "#stHoornKersenboogerd"
+    replace: "Hnk"
+    word: true
+
+  - trigger: "#stHorst-Sevenum"
+    replace: "Hrt"
+    word: true
+
+  - trigger: "#stHouten"
+    replace: "Htn"
+    word: true
+
+  - trigger: "#stHoutenCastellum"
+    replace: "Htnc"
+    word: true
+
+  - trigger: "#stHouthem-St.Gerlach"
+    replace: "Sgl"
+    word: true
+
+  - trigger: "#stHurdegaryp"
+    replace: "Hdg"
+    word: true
+
+  - trigger: "#stIJlst"
+    replace: "IJt"
+    word: true
+
+  - trigger: "#stKampen"
+    replace: "Kpn"
+    word: true
+
+  - trigger: "#stKampenZuid"
+    replace: "Kpnz"
+    word: true
+
+  - trigger: "#stKapelle-Biezelinge"
+    replace: "Bzl"
+    word: true
+
+  - trigger: "#stKerkradeCentrum"
+    replace: "Krd"
+    word: true
+
+  - trigger: "#stKesteren"
+    replace: "Ktr"
+    word: true
+
+  - trigger: "#stKlarenbeek"
+    replace: "Kbk"
+    word: true
+
+  - trigger: "#stKlimmen-Ransdaal"
+    replace: "Kmr"
+    word: true
+
+  - trigger: "#stKoogaandeZaan"
+    replace: "Kz"
+    word: true
+
+  - trigger: "#stKoudum-Molkwerum"
+    replace: "Kmw"
+    word: true
+
+  - trigger: "#stKrabbendijke"
+    replace: "Kbd"
+    word: true
+
+  - trigger: "#stKrommenie-Assendelft"
+    replace: "Kma"
+    word: true
+
+  - trigger: "#stKropswolde"
+    replace: "Kw"
+    word: true
+
+  - trigger: "#stKruiningen-Yerseke"
+    replace: "Krg"
+    word: true
+
+  - trigger: "#stLageZwaluwe"
+    replace: "Zlw"
+    word: true
+
+  - trigger: "#stLandgraaf"
+    replace: "Lg"
+    word: true
+
+  - trigger: "#stLansingerland-Zoetermeer"
+    replace: "Llzm"
+    word: true
+
+  - trigger: "#stLeerdam"
+    replace: "Ldm"
+    word: true
+
+  - trigger: "#stLeeuwarden"
+    replace: "Lw"
+    word: true
+
+  - trigger: "#stLeeuwardenCamminghaburen"
+    replace: "Lwc"
+    word: true
+
+  - trigger: "#stLeidenCentraal"
+    replace: "Ledn"
+    word: true
+
+  - trigger: "#stLeidenLammenschans"
+    replace: "Ldl"
+    word: true
+
+  - trigger: "#stLelystadCentrum"
+    replace: "Lls"
+    word: true
+
+  - trigger: "#stLichtenvoorde-Groenlo"
+    replace: "Ltv"
+    word: true
+
+  - trigger: "#stLochem"
+    replace: "Lc"
+    word: true
+
+  - trigger: "#stLoppersum"
+    replace: "Lp"
+    word: true
+
+  - trigger: "#stLunteren"
+    replace: "Ltn"
+    word: true
+
+  - trigger: "#stMaarheeze"
+    replace: "Mz"
+    word: true
+
+  - trigger: "#stMaarn"
+    replace: "Mrn"
+    word: true
+
+  - trigger: "#stMaarssen"
+    replace: "Mas"
+    word: true
+
+  - trigger: "#stMaastricht"
+    replace: "Mt"
+    word: true
+
+  - trigger: "#stMaastrichtNoord"
+    replace: "Mtn"
+    word: true
+
+  - trigger: "#stMaastrichtRandwyck"
+    replace: "Mtr"
+    word: true
+
+  - trigger: "#stMantgum"
+    replace: "Mg"
+    word: true
+
+  - trigger: "#stMariënberg"
+    replace: "Mrb"
+    word: true
+
+  - trigger: "#stMartenshoek"
+    replace: "Mth"
+    word: true
+
+  - trigger: "#stMeerssen"
+    replace: "Mes"
+    word: true
+
+  - trigger: "#stMeppel"
+    replace: "Mp"
+    word: true
+
+  - trigger: "#stMiddelburg"
+    replace: "Mdb"
+    word: true
+
+  - trigger: "#stMook-Molenhoek"
+    replace: "Mmlh"
+    word: true
+
+  - trigger: "#stNaarden-Bussum"
+    replace: "Ndb"
+    word: true
+
+  - trigger: "#stNieuwAmsterdam"
+    replace: "Na"
+    word: true
+
+  - trigger: "#stNieuwVennep"
+    replace: "Nvp"
+    word: true
+
+  - trigger: "#stNieuwerkerkaandenIJssel"
+    replace: "Nwk"
+    word: true
+
+  - trigger: "#stBadNieuweschans"
+    replace: "Nsch"
+    word: true
+
+  - trigger: "#stNijkerk"
+    replace: "Nkk"
+    word: true
+
+  - trigger: "#stNijmegen"
+    replace: "Nm"
+    word: true
+
+  - trigger: "#stNijmegenDukenburg"
+    replace: "Nmd"
+    word: true
+
+  - trigger: "#stNijmegenGoffert"
+    replace: "Nmgo"
+    word: true
+
+  - trigger: "#stNijmegenHeyendaal"
+    replace: "Nmh"
+    word: true
+
+  - trigger: "#stNijmegenLent"
+    replace: "Nml"
+    word: true
+
+  - trigger: "#stNijverdal"
+    replace: "Nvd"
+    word: true
+
+  - trigger: "#stNunspeet"
+    replace: "Ns"
+    word: true
+
+  - trigger: "#stNuth"
+    replace: "Nh"
+    word: true
+
+  - trigger: "#stObdam"
+    replace: "Obd"
+    word: true
+
+  - trigger: "#stOisterwijk"
+    replace: "Ot"
+    word: true
+
+  - trigger: "#stOldenzaal"
+    replace: "Odz"
+    word: true
+
+  - trigger: "#stOlst"
+    replace: "Ost"
+    word: true
+
+  - trigger: "#stOmmen"
+    replace: "Omn"
+    word: true
+
+  - trigger: "#stOosterbeek"
+    replace: "Otb"
+    word: true
+
+  - trigger: "#stOpheusden"
+    replace: "Op"
+    word: true
+
+  - trigger: "#stOss"
+    replace: "O"
+    word: true
+
+  - trigger: "#stOssWest"
+    replace: "Ow"
+    word: true
+
+  - trigger: "#stOudenbosch"
+    replace: "Odb"
+    word: true
+
+  - trigger: "#stOverveen"
+    replace: "Ovn"
+    word: true
+
+  - trigger: "#stPurmerend"
+    replace: "Pmr"
+    word: true
+
+  - trigger: "#stPurmerendOverwhere"
+    replace: "Pmo"
+    word: true
+
+  - trigger: "#stPurmerendWeidevenne"
+    replace: "Pmw"
+    word: true
+
+  - trigger: "#stPutten"
+    replace: "Pt"
+    word: true
+
+  - trigger: "#stRaalte"
+    replace: "Rat"
+    word: true
+
+  - trigger: "#stRavenstein"
+    replace: "Rvs"
+    word: true
+
+  - trigger: "#stReuver"
+    replace: "Rv"
+    word: true
+
+  - trigger: "#stRheden"
+    replace: "Rh"
+    word: true
+
+  - trigger: "#stRhenen"
+    replace: "Rhn"
+    word: true
+
+  - trigger: "#stRijssen"
+    replace: "Rsn"
+    word: true
+
+  - trigger: "#stRijswijk"
+    replace: "Rsw"
+    word: true
+
+  - trigger: "#stRilland-Bath"
+    replace: "Rb"
+    word: true
+
+  - trigger: "#stRoermond"
+    replace: "Rm"
+    word: true
+
+  - trigger: "#stRoodeschool"
+    replace: "Rd"
+    word: true
+
+  - trigger: "#stRoosendaal"
+    replace: "Rsd"
+    word: true
+
+  - trigger: "#stRosmalen"
+    replace: "Rs"
+    word: true
+
+  - trigger: "#stRotterdamAlexander"
+    replace: "Rta"
+    word: true
+
+  - trigger: "#stRotterdamBlaak"
+    replace: "Rtb"
+    word: true
+
+  - trigger: "#stRotterdamCentraal"
+    replace: "Rtd"
+    word: true
+
+  - trigger: "#stRotterdamLombardijen"
+    replace: "Rlb"
+    word: true
+
+  - trigger: "#stRotterdamNoord"
+    replace: "Rtn"
+    word: true
+
+  - trigger: "#stRotterdamStadion"
+    replace: "Rtst"
+    word: true
+
+  - trigger: "#stRotterdamZuid"
+    replace: "Rtz"
+    word: true
+
+  - trigger: "#stRuurlo"
+    replace: "Rl"
+    word: true
+
+  - trigger: "#stSantpoortNoord"
+    replace: "Sptn"
+    word: true
+
+  - trigger: "#stSantpoortZuid"
+    replace: "Sptz"
+    word: true
+
+  - trigger: "#stSappemeerOost"
+    replace: "Spm"
+    word: true
+
+  - trigger: "#stSassenheim"
+    replace: "Ssh"
+    word: true
+
+  - trigger: "#stSauwerd"
+    replace: "Swd"
+    word: true
+
+  - trigger: "#stSchagen"
+    replace: "Sgn"
+    word: true
+
+  - trigger: "#stScheemda"
+    replace: "Sda"
+    word: true
+
+  - trigger: "#stSchiedamCentrum"
+    replace: "Sdm"
+    word: true
+
+  - trigger: "#stSchinnen"
+    replace: "Sn"
+    word: true
+
+  - trigger: "#stSchinopGeul"
+    replace: "Sog"
+    word: true
+
+  - trigger: "#stSchipholAirport"
+    replace: "Shl"
+    word: true
+
+  - trigger: "#stSittard"
+    replace: "Std"
+    word: true
+
+  - trigger: "#stSneek"
+    replace: "Sk"
+    word: true
+
+  - trigger: "#stSneekNoord"
+    replace: "Sknd"
+    word: true
+
+  - trigger: "#stSoest"
+    replace: "St"
+    word: true
+
+  - trigger: "#stSoestZuid"
+    replace: "Stz"
+    word: true
+
+  - trigger: "#stSoestdijk"
+    replace: "Sd"
+    word: true
+
+  - trigger: "#stSliedrechtBaanhoek"
+    replace: "Sdtb"
+    word: true
+
+  - trigger: "#stSpaubeek"
+    replace: "Sbk"
+    word: true
+
+  - trigger: "#stStavoren"
+    replace: "Stv"
+    word: true
+
+  - trigger: "#stStedum"
+    replace: "Stm"
+    word: true
+
+  - trigger: "#stSteenwijk"
+    replace: "Swk"
+    word: true
+
+  - trigger: "#stSusteren"
+    replace: "Srn"
+    word: true
+
+  - trigger: "#stSwalmen"
+    replace: "Sm"
+    word: true
+
+  - trigger: "#stTegelen"
+    replace: "Tg"
+    word: true
+
+  - trigger: "#stTerborg"
+    replace: "Tbg"
+    word: true
+
+  - trigger: "#stTiel"
+    replace: "Tl"
+    word: true
+
+  - trigger: "#stTielPassewaaij"
+    replace: "Tpsw"
+    word: true
+
+  - trigger: "#stTilburg"
+    replace: "Tb"
+    word: true
+
+  - trigger: "#stTilburgReeshof"
+    replace: "Tbr"
+    word: true
+
+  - trigger: "#stTilburgUniversiteit"
+    replace: "Tbu"
+    word: true
+
+  - trigger: "#stTwello"
+    replace: "Twl"
+    word: true
+
+  - trigger: "#stUitgeest"
+    replace: "Utg"
+    word: true
+
+  - trigger: "#stUithuizen"
+    replace: "Uhz"
+    word: true
+
+  - trigger: "#stUithuizermeeden"
+    replace: "Uhm"
+    word: true
+
+  - trigger: "#stUsquert"
+    replace: "Ust"
+    word: true
+
+  - trigger: "#stUtrechtCentraal"
+    replace: "Ut"
+    word: true
+
+  - trigger: "#stUtrechtLeidscheRijn"
+    replace: "Utlr"
+    word: true
+
+  - trigger: "#stUtrechtLunetten"
+    replace: "Utln"
+    word: true
+
+  - trigger: "#stUtrechtMaliebaan"
+    replace: "Utm"
+    word: true
+
+  - trigger: "#stUtrechtOvervecht"
+    replace: "Uto"
+    word: true
+
+  - trigger: "#stUtrechtTerwijde"
+    replace: "Utt"
+    word: true
+
+  - trigger: "#stUtrechtVaartscheRijn"
+    replace: "Utvr"
+    word: true
+
+  - trigger: "#stUtrechtZuilen"
+    replace: "Utzl"
+    word: true
+
+  - trigger: "#stValkenburg"
+    replace: "Vk"
+    word: true
+
+  - trigger: "#stVarsseveld"
+    replace: "Vsv"
+    word: true
+
+  - trigger: "#stVeendam"
+    replace: "Vdm"
+    word: true
+
+  - trigger: "#stVeenendaalCentrum"
+    replace: "Vndc"
+    word: true
+
+  - trigger: "#stVeenendaal-DeKlomp"
+    replace: "Klp"
+    word: true
+
+  - trigger: "#stVeenendaalWest"
+    replace: "Vndw"
+    word: true
+
+  - trigger: "#stVelp"
+    replace: "Vp"
+    word: true
+
+  - trigger: "#stVenlo"
+    replace: "Vl"
+    word: true
+
+  - trigger: "#stVenray"
+    replace: "Vry"
+    word: true
+
+  - trigger: "#stVierlingsbeek"
+    replace: "Vlb"
+    word: true
+
+  - trigger: "#stVleuten"
+    replace: "Vtn"
+    word: true
+
+  - trigger: "#stVlissingen"
+    replace: "Vs"
+    word: true
+
+  - trigger: "#stVlissingenSouburg"
+    replace: "Vss"
+    word: true
+
+  - trigger: "#stVoerendaal"
+    replace: "Vdl"
+    word: true
+
+  - trigger: "#stVoorburg"
+    replace: "Vb"
+    word: true
+
+  - trigger: "#stVoorhout"
+    replace: "Vh"
+    word: true
+
+  - trigger: "#stVoorschoten"
+    replace: "Vst"
+    word: true
+
+  - trigger: "#stVoorst-Empe"
+    replace: "Vem"
+    word: true
+
+  - trigger: "#stVorden"
+    replace: "Vd"
+    word: true
+
+  - trigger: "#stVriezenveen"
+    replace: "Vz"
+    word: true
+
+  - trigger: "#stVroomshoop"
+    replace: "Vhp"
+    word: true
+
+  - trigger: "#stVught"
+    replace: "Vg"
+    word: true
+
+  - trigger: "#stWaddinxveen"
+    replace: "Wad"
+    word: true
+
+  - trigger: "#stWaddinxveenNoord"
+    replace: "Wadn"
+    word: true
+
+  - trigger: "#stWaddinxveenTriangel"
+    replace: "Wadt"
+    word: true
+
+  - trigger: "#stWarffum"
+    replace: "Wfm"
+    word: true
+
+  - trigger: "#stWeert"
+    replace: "Wt"
+    word: true
+
+  - trigger: "#stWeesp"
+    replace: "Wp"
+    word: true
+
+  - trigger: "#stWehl"
+    replace: "Wl"
+    word: true
+
+  - trigger: "#stWestervoort"
+    replace: "Wtv"
+    word: true
+
+  - trigger: "#stWezep"
+    replace: "Wz"
+    word: true
+
+  - trigger: "#stWierden"
+    replace: "Wdn"
+    word: true
+
+  - trigger: "#stWijchen"
+    replace: "Wc"
+    word: true
+
+  - trigger: "#stWijhe"
+    replace: "Wh"
+    word: true
+
+  - trigger: "#stWinschoten"
+    replace: "Ws"
+    word: true
+
+  - trigger: "#stWinsum"
+    replace: "Wsm"
+    word: true
+
+  - trigger: "#stWinterswijk"
+    replace: "Ww"
+    word: true
+
+  - trigger: "#stWinterswijkWest"
+    replace: "Www"
+    word: true
+
+  - trigger: "#stWoerden"
+    replace: "Wd"
+    word: true
+
+  - trigger: "#stWolfheze"
+    replace: "Wf"
+    word: true
+
+  - trigger: "#stWolvega"
+    replace: "Wv"
+    word: true
+
+  - trigger: "#stWorkum"
+    replace: "Wk"
+    word: true
+
+  - trigger: "#stWormerveer"
+    replace: "Wm"
+    word: true
+
+  - trigger: "#stZaandam"
+    replace: "Zd"
+    word: true
+
+  - trigger: "#stZaandamKogerveld"
+    replace: "Zdk"
+    word: true
+
+  - trigger: "#stZaltbommel"
+    replace: "Zbm"
+    word: true
+
+  - trigger: "#stZandvoortaanZee"
+    replace: "Zvt"
+    word: true
+
+  - trigger: "#stZetten-Andelst"
+    replace: "Za"
+    word: true
+
+  - trigger: "#stZevenaar"
+    replace: "Zv"
+    word: true
+
+  - trigger: "#stZevenbergen"
+    replace: "Zvb"
+    word: true
+
+  - trigger: "#stZoetermeer"
+    replace: "Ztm"
+    word: true
+
+  - trigger: "#stZoetermeerOost"
+    replace: "Ztmo"
+    word: true
+
+  - trigger: "#stZuidbroek"
+    replace: "Zb"
+    word: true
+
+  - trigger: "#stZuidhorn"
+    replace: "Zh"
+    word: true
+
+  - trigger: "#stZutphen"
+    replace: "Zp"
+    word: true
+
+  - trigger: "#stZwijndrecht"
+    replace: "Zwd"
+    word: true
+
+  - trigger: "#stZwolle"
+    replace: "Zl"
+    word: true
+
+  - trigger: "#stZwolleStadshagen"
+    replace: "Zlsh"
+    word: true
+
+  - trigger: "#stZaandijkZaanseSchans"
+    replace: "Zzs"
+    word: true
+
+# From abbreviation to staton
+
+  - trigger: "#abAtn"
+    replace: "Aalten"
+    word: true
+
+  - trigger: "#abAc"
+    replace: "Abcoude"
+    word: true
+
+  - trigger: "#abAkm"
+    replace: "Akkrum"
+    word: true
+
+  - trigger: "#abAmr"
+    replace: "Alkmaar"
+    word: true
+
+  - trigger: "#abAmrn"
+    replace: "Alkmaar Noord"
+    word: true
+
+  - trigger: "#abAml"
+    replace: "Almelo"
+    word: true
+
+  - trigger: "#abAmri"
+    replace: "Almelode Riet"
+    word: true
+
+  - trigger: "#abAlmb"
+    replace: "Almere Buiten"
+    word: true
+
+  - trigger: "#abAlm"
+    replace: "Almere Centrum"
+    word: true
+
+  - trigger: "#abAlmm"
+    replace: "Almere Muziekwijk"
+    word: true
+
+  - trigger: "#abAlmo"
+    replace: "Almere Oostvaarders"
+    word: true
+
+  - trigger: "#abAlmp"
+    replace: "Almere Parkwijk"
+    word: true
+
+  - trigger: "#abAmpo"
+    replace: "Almere Poort"
+    word: true
+
+  - trigger: "#abApn"
+    replace: "Alphen aan den Rijn"
+    word: true
+
+  - trigger: "#abAmf"
+    replace: "Amersfoort Centraal"
+    word: true
+
+  - trigger: "#abAmfs"
+    replace: "Amersfoort Schothorst"
+    word: true
+
+  - trigger: "#abAvat"
+    replace: "Amersfoort Vathorst"
+    word: true
+
+  - trigger: "#abAsa"
+    replace: "Amsterdam Amstel"
+    word: true
+
+  - trigger: "#abAsdar"
+    replace: "Amsterdam ArenA"
+    word: true
+
+  - trigger: "#abAsb"
+    replace: "Amsterdam Bijlmer ArenA"
+    word: true
+
+  - trigger: "#abAsd"
+    replace: "Amsterdam Centraal"
+    word: true
+
+  - trigger: "#abAsdh"
+    replace: "Amsterdam Holendrecht"
+    word: true
+
+  - trigger: "#abAsdl"
+    replace: "Amsterdam Lelylaan"
+    word: true
+
+  - trigger: "#abAsdm"
+    replace: "Amsterdam Muiderpoort"
+    word: true
+
+  - trigger: "#abRai"
+    replace: "Amsterdam RAI"
+    word: true
+
+  - trigger: "#abAssp"
+    replace: "Amsterdam Science Park"
+    word: true
+
+  - trigger: "#abAss"
+    replace: "Amsterdam Sloterdijk"
+    word: true
+
+  - trigger: "#abAsdz"
+    replace: "Amsterdam Zuid"
+    word: true
+
+  - trigger: "#abAna"
+    replace: "Anna Paulowna"
+    word: true
+
+  - trigger: "#abApd"
+    replace: "Apeldoorn"
+    word: true
+
+  - trigger: "#abApdm"
+    replace: "Apeldoorn De Maten"
+    word: true
+
+  - trigger: "#abApdo"
+    replace: "Apeldoorn Osseveld"
+    word: true
+
+  - trigger: "#abApg"
+    replace: "Appingedam"
+    word: true
+
+  - trigger: "#abAkl"
+    replace: "Arkel"
+    word: true
+
+  - trigger: "#abArn"
+    replace: "Arnemuiden"
+    word: true
+
+  - trigger: "#abAh"
+    replace: "Arnhem Centraal"
+    word: true
+
+  - trigger: "#abAhpr"
+    replace: "Arnhem Presikhaaf"
+    word: true
+
+  - trigger: "#abAhp"
+    replace: "Arnhem Velperpoort"
+    word: true
+
+  - trigger: "#abAhz"
+    replace: "Arnhem Zuid"
+    word: true
+
+  - trigger: "#abAsn"
+    replace: "Assen"
+    word: true
+
+  - trigger: "#abBrn"
+    replace: "Baarn"
+    word: true
+
+  - trigger: "#abBf"
+    replace: "Baflo"
+    word: true
+
+  - trigger: "#abBrd"
+    replace: "Barendrecht"
+    word: true
+
+  - trigger: "#abBnc"
+    replace: "Barneveld Centrum"
+    word: true
+
+  - trigger: "#abBnn"
+    replace: "Barneveld Noord"
+    word: true
+
+  - trigger: "#abBdm"
+    replace: "Bedum"
+    word: true
+
+  - trigger: "#abBk"
+    replace: "Beek-Elsloo"
+    word: true
+
+  - trigger: "#abBsd"
+    replace: "Beesd"
+    word: true
+
+  - trigger: "#abBl"
+    replace: "Beilen"
+    word: true
+
+  - trigger: "#abBgn"
+    replace: "Bergen op Zoom"
+    word: true
+
+  - trigger: "#abBet"
+    replace: "Best"
+    word: true
+
+  - trigger: "#abBv"
+    replace: "Beverwijk"
+    word: true
+
+  - trigger: "#abBhv"
+    replace: "Bilthoven"
+    word: true
+
+  - trigger: "#abBr"
+    replace: "Blerick"
+    word: true
+
+  - trigger: "#abBll"
+    replace: "Bloemendaal"
+    word: true
+
+  - trigger: "#abBdg"
+    replace: "Bodegraven"
+    word: true
+
+  - trigger: "#abBn"
+    replace: "Borne"
+    word: true
+
+  - trigger: "#abBsk"
+    replace: "Boskoop"
+    word: true
+
+  - trigger: "#abBsks"
+    replace: "Boskoop Snijdelwijk"
+    word: true
+
+  - trigger: "#abBhdv"
+    replace: "Boven-Hardinxveld"
+    word: true
+
+  - trigger: "#abBkf"
+    replace: "Bovenkarspel Flora"
+    word: true
+
+  - trigger: "#abBkg"
+    replace: "Bovenkarspel-Grootebroek"
+    word: true
+
+  - trigger: "#abBmr"
+    replace: "Boxmeer"
+    word: true
+
+  - trigger: "#abBtl"
+    replace: "Boxtel"
+    word: true
+
+  - trigger: "#abBd"
+    replace: "Breda"
+    word: true
+
+  - trigger: "#abBdpb"
+    replace: "Breda-Prinsenbeek"
+    word: true
+
+  - trigger: "#abBkl"
+    replace: "Breukelen"
+    word: true
+
+  - trigger: "#abBmn"
+    replace: "Brummen"
+    word: true
+
+  - trigger: "#abBp"
+    replace: "Buitenpost"
+    word: true
+
+  - trigger: "#abBde"
+    replace: "Bunde"
+    word: true
+
+  - trigger: "#abBnk"
+    replace: "Bunnik"
+    word: true
+
+  - trigger: "#abBsmz"
+    replace: "Bussum Zuid"
+    word: true
+
+  - trigger: "#abCps"
+    replace: "Capelle Schollevaar"
+    word: true
+
+  - trigger: "#abCas"
+    replace: "Castricum"
+    word: true
+
+  - trigger: "#abCvm"
+    replace: "Chevremont"
+    word: true
+
+  - trigger: "#abCo"
+    replace: "Coevorden"
+    word: true
+
+  - trigger: "#abCk"
+    replace: "Cuijk"
+    word: true
+
+  - trigger: "#abCl"
+    replace: "Culemborg"
+    word: true
+
+  - trigger: "#abDa"
+    replace: "Daarlerveen"
+    word: true
+
+  - trigger: "#abDln"
+    replace: "Dalen"
+    word: true
+
+  - trigger: "#abDl"
+    replace: "Dalfsen"
+    word: true
+
+  - trigger: "#abDvnk"
+    replace: "De Vink"
+    word: true
+
+  - trigger: "#abDei"
+    replace: "Deinum"
+    word: true
+
+  - trigger: "#abDdn"
+    replace: "Delden"
+    word: true
+
+  - trigger: "#abDt"
+    replace: "Delft"
+    word: true
+
+  - trigger: "#abDtz"
+    replace: "Delft Campus"
+    word: true
+
+  - trigger: "#abDz"
+    replace: "Delfzijl"
+    word: true
+
+  - trigger: "#abDzw"
+    replace: "Delfzijl West"
+    word: true
+
+  - trigger: "#abDld"
+    replace: "Den Dolder"
+    word: true
+
+  - trigger: "#abGvc"
+    replace: "Den Haag Centraal"
+    word: true
+
+  - trigger: "#abGv"
+    replace: "Den Haag HS"
+    word: true
+
+  - trigger: "#abLaa"
+    replace: "Den Haag Laan van NOI"
+    word: true
+
+  - trigger: "#abGvm"
+    replace: "Den Haag Mariahoeve"
+    word: true
+
+  - trigger: "#abGvmw"
+    replace: "Den Haag Moerwijk"
+    word: true
+
+  - trigger: "#abYpb"
+    replace: "Den Haag Ypenburg"
+    word: true
+
+  - trigger: "#abHdr"
+    replace: "Den Helder"
+    word: true
+
+  - trigger: "#abHdrz"
+    replace: "Den Helder Zuid"
+    word: true
+
+  - trigger: "#abDn"
+    replace: "Deurne"
+    word: true
+
+  - trigger: "#abDv"
+    replace: "Deventer"
+    word: true
+
+  - trigger: "#abDvc"
+    replace: "Deventer Colmschate"
+    word: true
+
+  - trigger: "#abDvt"
+    replace: "Deventer De Scheg"
+    word: true
+
+  - trigger: "#abDwe"
+    replace: "De Westereen"
+    word: true
+
+  - trigger: "#abDid"
+    replace: "Didam"
+    word: true
+
+  - trigger: "#abDmn"
+    replace: "Diemen"
+    word: true
+
+  - trigger: "#abDmnz"
+    replace: "Diemen Zuid"
+    word: true
+
+  - trigger: "#abDr"
+    replace: "Dieren"
+    word: true
+
+  - trigger: "#abDtc"
+    replace: "Doetinchem"
+    word: true
+
+  - trigger: "#abDtch"
+    replace: "Doetinchem De Huet"
+    word: true
+
+  - trigger: "#abDdr"
+    replace: "Dordrecht"
+    word: true
+
+  - trigger: "#abDdrs"
+    replace: "Dordrecht Stadspolders"
+    word: true
+
+  - trigger: "#abDdzd"
+    replace: "Dordrecht Zuid"
+    word: true
+
+  - trigger: "#abDb"
+    replace: "Driebergen-Zeist"
+    word: true
+
+  - trigger: "#abDrh"
+    replace: "Driehuis"
+    word: true
+
+  - trigger: "#abDrp"
+    replace: "Dronryp"
+    word: true
+
+  - trigger: "#abDron"
+    replace: "Dronten"
+    word: true
+
+  - trigger: "#abDvn"
+    replace: "Duiven"
+    word: true
+
+  - trigger: "#abDvd"
+    replace: "Duivendrecht"
+    word: true
+
+  - trigger: "#abEc"
+    replace: "Echt"
+    word: true
+
+  - trigger: "#abEdc"
+    replace: "Ede Centrum"
+    word: true
+
+  - trigger: "#abEd"
+    replace: "Ede-Wageningen"
+    word: true
+
+  - trigger: "#abEem"
+    replace: "Eemshaven"
+    word: true
+
+  - trigger: "#abEdn"
+    replace: "Eijsden"
+    word: true
+
+  - trigger: "#abEhv"
+    replace: "Eindhoven Centraal"
+    word: true
+
+  - trigger: "#abEhs"
+    replace: "Eindhoven Strijp-S"
+    word: true
+
+  - trigger: "#abEhst"
+    replace: "Eindhoven Stadion"
+    word: true
+
+  - trigger: "#abEst"
+    replace: "Elst"
+    word: true
+
+  - trigger: "#abEmn"
+    replace: "Emmen"
+    word: true
+
+  - trigger: "#abEmnz"
+    replace: "Emmen Zuid"
+    word: true
+
+  - trigger: "#abEkz"
+    replace: "Enkhuizen"
+    word: true
+
+  - trigger: "#abEs"
+    replace: "Enschede"
+    word: true
+
+  - trigger: "#abEse"
+    replace: "Enschede De Eschmarke"
+    word: true
+
+  - trigger: "#abEsk"
+    replace: "Enschede Kennispark"
+    word: true
+
+  - trigger: "#abEml"
+    replace: "Ermelo"
+    word: true
+
+  - trigger: "#abEtn"
+    replace: "Etten-Leur"
+    word: true
+
+  - trigger: "#abEgh"
+    replace: "Eygelshoven"
+    word: true
+
+  - trigger: "#abEghm"
+    replace: "Eygelshoven Markt"
+    word: true
+
+  - trigger: "#abFwd"
+    replace: "Feanwâlden"
+    word: true
+
+  - trigger: "#abFn"
+    replace: "Franeker"
+    word: true
+
+  - trigger: "#abGdr"
+    replace: "Gaanderen"
+    word: true
+
+  - trigger: "#abGdm"
+    replace: "Geldermalsen"
+    word: true
+
+  - trigger: "#abGp"
+    replace: "Geldrop"
+    word: true
+
+  - trigger: "#abGln"
+    replace: "Geleen Oost"
+    word: true
+
+  - trigger: "#abLut"
+    replace: "Geleen-Lutterade"
+    word: true
+
+  - trigger: "#abGz"
+    replace: "Gilze-Rijen"
+    word: true
+
+  - trigger: "#abGbr"
+    replace: "Glanerbrug"
+    word: true
+
+  - trigger: "#abGs"
+    replace: "Goes"
+    word: true
+
+  - trigger: "#abGo"
+    replace: "Goor"
+    word: true
+
+  - trigger: "#abGr"
+    replace: "Gorinchem"
+    word: true
+
+  - trigger: "#abGd"
+    replace: "Gouda"
+    word: true
+
+  - trigger: "#abGdg"
+    replace: "Gouda Goverwelle"
+    word: true
+
+  - trigger: "#abGbg"
+    replace: "Gramsbergen"
+    word: true
+
+  - trigger: "#abGk"
+    replace: "Grijpskerk"
+    word: true
+
+  - trigger: "#abGn"
+    replace: "Groningen"
+    word: true
+
+  - trigger: "#abGerp"
+    replace: "Groningen Europapark"
+    word: true
+
+  - trigger: "#abGnn"
+    replace: "Groningen Noord"
+    word: true
+
+  - trigger: "#abGw"
+    replace: "Grou-Jirnsum"
+    word: true
+
+  - trigger: "#abHlm"
+    replace: "Haarlem"
+    word: true
+
+  - trigger: "#abHlms"
+    replace: "Haarlem Spaarnwoude"
+    word: true
+
+  - trigger: "#abHwzw"
+    replace: "Halfweg-Zwanenburg"
+    word: true
+
+  - trigger: "#abHde"
+    replace: "'t Harde"
+    word: true
+
+  - trigger: "#abHdb"
+    replace: "Hardenberg"
+    word: true
+
+  - trigger: "#abHd"
+    replace: "Harderwijk"
+    word: true
+
+  - trigger: "#abHbzm/Bzm"
+    replace: "Hardinxveld Blauwe Zoom"
+    word: true
+
+  - trigger: "#abGnd/Hag"
+    replace: "Hardinxveld-Giessendam"
+    word: true
+
+  - trigger: "#abHrn"
+    replace: "Haren"
+    word: true
+
+  - trigger: "#abHlg"
+    replace: "Harlingen"
+    word: true
+
+  - trigger: "#abHlgh"
+    replace: "Harlingen Haven"
+    word: true
+
+  - trigger: "#abHk"
+    replace: "Heemskerk"
+    word: true
+
+  - trigger: "#abHad"
+    replace: "Heemstede-Aerdenhout"
+    word: true
+
+  - trigger: "#abHr"
+    replace: "Heerenveen"
+    word: true
+
+  - trigger: "#abHrij/Hry"
+    replace: "Heerenveen IJsstadion"
+    word: true
+
+  - trigger: "#abHwd"
+    replace: "Heerhugowaard"
+    word: true
+
+  - trigger: "#abHrl"
+    replace: "Heerlen"
+    word: true
+
+  - trigger: "#abHrlw"
+    replace: "Heerlen Woonboulevard"
+    word: true
+
+  - trigger: "#abHze"
+    replace: "Heeze"
+    word: true
+
+  - trigger: "#abHlo"
+    replace: "Heiloo"
+    word: true
+
+  - trigger: "#abHno"
+    replace: "Heino"
+    word: true
+
+  - trigger: "#abHm"
+    replace: "Helmond"
+    word: true
+
+  - trigger: "#abHmbv"
+    replace: "Helmond Brandevoort"
+    word: true
+
+  - trigger: "#abHmbh"
+    replace: "Helmond Brouwhuis"
+    word: true
+
+  - trigger: "#abHmh"
+    replace: "Helmond'tHout"
+    word: true
+
+  - trigger: "#abHmn"
+    replace: "Hemmen-Dodewaard"
+    word: true
+
+  - trigger: "#abHgl"
+    replace: "Hengelo"
+    word: true
+
+  - trigger: "#abHglg"
+    replace: "Hengelo Gezondheidspark"
+    word: true
+
+  - trigger: "#abHglo"
+    replace: "Hengelo Oost"
+    word: true
+
+  - trigger: "#abHt"
+    replace: "'s-Hertogenbosch"
+    word: true
+
+  - trigger: "#abHto"
+    replace: "'s-Hertogenbosch Oost"
+    word: true
+
+  - trigger: "#abHil"
+    replace: "Hillegom"
+    word: true
+
+  - trigger: "#abHvs"
+    replace: "Hilversum"
+    word: true
+
+  - trigger: "#abHvsn"
+    replace: "Hilversum Noord"
+    word: true
+
+  - trigger: "#abHvsp"
+    replace: "Hilversum Sportpark"
+    word: true
+
+  - trigger: "#abHnp"
+    replace: "Hindeloopen"
+    word: true
+
+  - trigger: "#abHb"
+    replace: "Hoensbroek"
+    word: true
+
+  - trigger: "#abHvl"
+    replace: "Hoevelaken"
+    word: true
+
+  - trigger: "#abHor"
+    replace: "Hollandsche Rading"
+    word: true
+
+  - trigger: "#abHon"
+    replace: "Holten"
+    word: true
+
+  - trigger: "#abHfd"
+    replace: "Hoofddorp"
+    word: true
+
+  - trigger: "#abHgv"
+    replace: "Hoogeveen"
+    word: true
+
+  - trigger: "#abHgz"
+    replace: "Hoogezand-Sappemeer"
+    word: true
+
+  - trigger: "#abHks"
+    replace: "Hoogkarspel"
+    word: true
+
+  - trigger: "#abHn"
+    replace: "Hoorn"
+    word: true
+
+  - trigger: "#abHnk"
+    replace: "Hoorn Kersenboogerd"
+    word: true
+
+  - trigger: "#abHrt"
+    replace: "Horst-Sevenum"
+    word: true
+
+  - trigger: "#abHtn"
+    replace: "Houten"
+    word: true
+
+  - trigger: "#abHtnc"
+    replace: "Houten Castellum"
+    word: true
+
+  - trigger: "#abSgl"
+    replace: "Houthem-St.Gerlach"
+    word: true
+
+  - trigger: "#abHdg"
+    replace: "Hurdegaryp"
+    word: true
+
+  - trigger: "#abIJt"
+    replace: "IJlst"
+    word: true
+
+  - trigger: "#abKpn"
+    replace: "Kampen"
+    word: true
+
+  - trigger: "#abKpnz"
+    replace: "Kampen Zuid"
+    word: true
+
+  - trigger: "#abBzl"
+    replace: "Kapelle-Biezelinge"
+    word: true
+
+  - trigger: "#abKrd"
+    replace: "Kerkrade Centrum"
+    word: true
+
+  - trigger: "#abKtr"
+    replace: "Kesteren"
+    word: true
+
+  - trigger: "#abKbk"
+    replace: "Klarenbeek"
+    word: true
+
+  - trigger: "#abKmr"
+    replace: "Klimmen-Ransdaal"
+    word: true
+
+  - trigger: "#abKz"
+    replace: "Koog aan de Zaan"
+    word: true
+
+  - trigger: "#abKmw"
+    replace: "Koudum-Molkwerum"
+    word: true
+
+  - trigger: "#abKbd"
+    replace: "Krabbendijke"
+    word: true
+
+  - trigger: "#abKma"
+    replace: "Krommenie-Assendelft"
+    word: true
+
+  - trigger: "#abKw"
+    replace: "Kropswolde"
+    word: true
+
+  - trigger: "#abKrg"
+    replace: "Kruiningen-Yerseke"
+    word: true
+
+  - trigger: "#abZlw"
+    replace: "Lage Zwaluwe"
+    word: true
+
+  - trigger: "#abLg"
+    replace: "Landgraaf"
+    word: true
+
+  - trigger: "#abLlzm"
+    replace: "Lansingerland-Zoetermeer"
+    word: true
+
+  - trigger: "#abLdm"
+    replace: "Leerdam"
+    word: true
+
+  - trigger: "#abLw"
+    replace: "Leeuwarden"
+    word: true
+
+  - trigger: "#abLwc"
+    replace: "Leeuwarden Camminghaburen"
+    word: true
+
+  - trigger: "#abLedn"
+    replace: "Leiden Centraal"
+    word: true
+
+  - trigger: "#abLdl"
+    replace: "Leiden Lammenschans"
+    word: true
+
+  - trigger: "#abLls"
+    replace: "Lelystad Centrum"
+    word: true
+
+  - trigger: "#abLtv"
+    replace: "Lichtenvoorde-Groenlo"
+    word: true
+
+  - trigger: "#abLc"
+    replace: "Lochem"
+    word: true
+
+  - trigger: "#abLp"
+    replace: "Loppersum"
+    word: true
+
+  - trigger: "#abLtn"
+    replace: "Lunteren"
+    word: true
+
+  - trigger: "#abMz"
+    replace: "Maarheeze"
+    word: true
+
+  - trigger: "#abMrn"
+    replace: "Maarn"
+    word: true
+
+  - trigger: "#abMas"
+    replace: "Maarssen"
+    word: true
+
+  - trigger: "#abMt"
+    replace: "Maastricht"
+    word: true
+
+  - trigger: "#abMtn"
+    replace: "Maastricht Noord"
+    word: true
+
+  - trigger: "#abMtr"
+    replace: "Maastricht Randwyck"
+    word: true
+
+  - trigger: "#abMg"
+    replace: "Mantgum"
+    word: true
+
+  - trigger: "#abMrb"
+    replace: "Mariënberg"
+    word: true
+
+  - trigger: "#abMth"
+    replace: "Martenshoek"
+    word: true
+
+  - trigger: "#abMes"
+    replace: "Meerssen"
+    word: true
+
+  - trigger: "#abMp"
+    replace: "Meppel"
+    word: true
+
+  - trigger: "#abMdb"
+    replace: "Middelburg"
+    word: true
+
+  - trigger: "#abMmlh"
+    replace: "Mook-Molenhoek"
+    word: true
+
+  - trigger: "#abNdb"
+    replace: "Naarden-Bussum"
+    word: true
+
+  - trigger: "#abNa"
+    replace: "Nieuw Amsterdam"
+    word: true
+
+  - trigger: "#abNvp"
+    replace: "Nieuw Vennep"
+    word: true
+
+  - trigger: "#abNwk"
+    replace: "Nieuwerkerk aan den IJssel"
+    word: true
+
+  - trigger: "#abNsch"
+    replace: "Bad Nieuweschans"
+    word: true
+
+  - trigger: "#abNkk"
+    replace: "Nijkerk"
+    word: true
+
+  - trigger: "#abNm"
+    replace: "Nijmegen"
+    word: true
+
+  - trigger: "#abNmd"
+    replace: "Nijmegen Dukenburg"
+    word: true
+
+  - trigger: "#abNmgo"
+    replace: "Nijmegen Goffert"
+    word: true
+
+  - trigger: "#abNmh"
+    replace: "Nijmegen Heyendaal"
+    word: true
+
+  - trigger: "#abNml"
+    replace: "Nijmegen Lent"
+    word: true
+
+  - trigger: "#abNvd"
+    replace: "Nijverdal"
+    word: true
+
+  - trigger: "#abNs"
+    replace: "Nunspeet"
+    word: true
+
+  - trigger: "#abNh"
+    replace: "Nuth"
+    word: true
+
+  - trigger: "#abObd"
+    replace: "Obdam"
+    word: true
+
+  - trigger: "#abOt"
+    replace: "Oisterwijk"
+    word: true
+
+  - trigger: "#abOdz"
+    replace: "Oldenzaal"
+    word: true
+
+  - trigger: "#abOst"
+    replace: "Olst"
+    word: true
+
+  - trigger: "#abOmn"
+    replace: "Ommen"
+    word: true
+
+  - trigger: "#abOtb"
+    replace: "Oosterbeek"
+    word: true
+
+  - trigger: "#abOp"
+    replace: "Opheusden"
+    word: true
+
+  - trigger: "#abO"
+    replace: "Oss"
+    word: true
+
+  - trigger: "#abOw"
+    replace: "Oss West"
+    word: true
+
+  - trigger: "#abOdb"
+    replace: "Oudenbosch"
+    word: true
+
+  - trigger: "#abOvn"
+    replace: "Overveen"
+    word: true
+
+  - trigger: "#abPmr"
+    replace: "Purmerend"
+    word: true
+
+  - trigger: "#abPmo"
+    replace: "Purmerend Overwhere"
+    word: true
+
+  - trigger: "#abPmw"
+    replace: "Purmerend Weidevenne"
+    word: true
+
+  - trigger: "#abPt"
+    replace: "Putten"
+    word: true
+
+  - trigger: "#abRat"
+    replace: "Raalte"
+    word: true
+
+  - trigger: "#abRvs"
+    replace: "Ravenstein"
+    word: true
+
+  - trigger: "#abRv"
+    replace: "Reuver"
+    word: true
+
+  - trigger: "#abRh"
+    replace: "Rheden"
+    word: true
+
+  - trigger: "#abRhn"
+    replace: "Rhenen"
+    word: true
+
+  - trigger: "#abRsn"
+    replace: "Rijssen"
+    word: true
+
+  - trigger: "#abRsw"
+    replace: "Rijswijk"
+    word: true
+
+  - trigger: "#abRb"
+    replace: "Rilland-Bath"
+    word: true
+
+  - trigger: "#abRm"
+    replace: "Roermond"
+    word: true
+
+  - trigger: "#abRd"
+    replace: "Roodeschool"
+    word: true
+
+  - trigger: "#abRsd"
+    replace: "Roosendaal"
+    word: true
+
+  - trigger: "#abRs"
+    replace: "Rosmalen"
+    word: true
+
+  - trigger: "#abRta"
+    replace: "Rotterdam Alexander"
+    word: true
+
+  - trigger: "#abRtb"
+    replace: "Rotterdam Blaak"
+    word: true
+
+  - trigger: "#abRtd"
+    replace: "Rotterdam Centraal"
+    word: true
+
+  - trigger: "#abRlb"
+    replace: "Rotterdam Lombardijen"
+    word: true
+
+  - trigger: "#abRtn"
+    replace: "Rotterdam Noord"
+    word: true
+
+  - trigger: "#abRtst"
+    replace: "Rotterdam Stadion"
+    word: true
+
+  - trigger: "#abRtz"
+    replace: "Rotterdam Zuid"
+    word: true
+
+  - trigger: "#abRl"
+    replace: "Ruurlo"
+    word: true
+
+  - trigger: "#abSptn"
+    replace: "Santpoort Noord"
+    word: true
+
+  - trigger: "#abSptz"
+    replace: "Santpoort Zuid"
+    word: true
+
+  - trigger: "#abSpm"
+    replace: "Sappemeer Oost"
+    word: true
+
+  - trigger: "#abSsh"
+    replace: "Sassenheim"
+    word: true
+
+  - trigger: "#abSwd"
+    replace: "Sauwerd"
+    word: true
+
+  - trigger: "#abSgn"
+    replace: "Schagen"
+    word: true
+
+  - trigger: "#abSda"
+    replace: "Scheemda"
+    word: true
+
+  - trigger: "#abSdm"
+    replace: "Schiedam Centrum"
+    word: true
+
+  - trigger: "#abSn"
+    replace: "Schinnen"
+    word: true
+
+  - trigger: "#abSog"
+    replace: "Schin op Geul"
+    word: true
+
+  - trigger: "#abShl"
+    replace: "Schiphol Airport"
+    word: true
+
+  - trigger: "#abStd"
+    replace: "Sittard"
+    word: true
+
+  - trigger: "#abSk"
+    replace: "Sneek"
+    word: true
+
+  - trigger: "#abSknd"
+    replace: "Sneek Noord"
+    word: true
+
+  - trigger: "#abSt"
+    replace: "Soest"
+    word: true
+
+  - trigger: "#abStz"
+    replace: "Soest Zuid"
+    word: true
+
+  - trigger: "#abSd"
+    replace: "Soestdijk"
+    word: true
+
+  - trigger: "#abSdtb"
+    replace: "Sliedrecht Baanhoek"
+    word: true
+
+  - trigger: "#abSbk"
+    replace: "Spaubeek"
+    word: true
+
+  - trigger: "#abStv"
+    replace: "Stavoren"
+    word: true
+
+  - trigger: "#abStm"
+    replace: "Stedum"
+    word: true
+
+  - trigger: "#abSwk"
+    replace: "Steenwijk"
+    word: true
+
+  - trigger: "#abSrn"
+    replace: "Susteren"
+    word: true
+
+  - trigger: "#abSm"
+    replace: "Swalmen"
+    word: true
+
+  - trigger: "#abTg"
+    replace: "Tegelen"
+    word: true
+
+  - trigger: "#abTbg"
+    replace: "Terborg"
+    word: true
+
+  - trigger: "#abTl"
+    replace: "Tiel"
+    word: true
+
+  - trigger: "#abTpsw"
+    replace: "Tiel Passewaaij"
+    word: true
+
+  - trigger: "#abTb"
+    replace: "Tilburg"
+    word: true
+
+  - trigger: "#abTbr"
+    replace: "Tilburg Reeshof"
+    word: true
+
+  - trigger: "#abTbu"
+    replace: "Tilburg Universiteit"
+    word: true
+
+  - trigger: "#abTwl"
+    replace: "Twello"
+    word: true
+
+  - trigger: "#abUtg"
+    replace: "Uitgeest"
+    word: true
+
+  - trigger: "#abUhz"
+    replace: "Uithuizen"
+    word: true
+
+  - trigger: "#abUhm"
+    replace: "Uithuizermeeden"
+    word: true
+
+  - trigger: "#abUst"
+    replace: "Usquert"
+    word: true
+
+  - trigger: "#abUt"
+    replace: "Utrecht Centraal"
+    word: true
+
+  - trigger: "#abUtlr"
+    replace: "Utrecht Leidsche Rijn"
+    word: true
+
+  - trigger: "#abUtln"
+    replace: "Utrecht Lunetten"
+    word: true
+
+  - trigger: "#abUtm"
+    replace: "Utrecht Maliebaan"
+    word: true
+
+  - trigger: "#abUto"
+    replace: "Utrecht Overvecht"
+    word: true
+
+  - trigger: "#abUtt"
+    replace: "Utrecht Terwijde"
+    word: true
+
+  - trigger: "#abUtvr"
+    replace: "Utrecht Vaartsche Rijn"
+    word: true
+
+  - trigger: "#abUtzl"
+    replace: "Utrecht Zuilen"
+    word: true
+
+  - trigger: "#abVk"
+    replace: "Valkenburg"
+    word: true
+
+  - trigger: "#abVsv"
+    replace: "Varsseveld"
+    word: true
+
+  - trigger: "#abVdm"
+    replace: "Veendam"
+    word: true
+
+  - trigger: "#abVndc"
+    replace: "Veenendaal Centrum"
+    word: true
+
+  - trigger: "#abKlp"
+    replace: "Veenendaal-De Klomp"
+    word: true
+
+  - trigger: "#abVndw"
+    replace: "Veenendaal West"
+    word: true
+
+  - trigger: "#abVp"
+    replace: "Velp"
+    word: true
+
+  - trigger: "#abVl"
+    replace: "Venlo"
+    word: true
+
+  - trigger: "#abVry"
+    replace: "Venray"
+    word: true
+
+  - trigger: "#abVlb"
+    replace: "Vierlingsbeek"
+    word: true
+
+  - trigger: "#abVtn"
+    replace: "Vleuten"
+    word: true
+
+  - trigger: "#abVs"
+    replace: "Vlissingen"
+    word: true
+
+  - trigger: "#abVss"
+    replace: "Vlissingen Souburg"
+    word: true
+
+  - trigger: "#abVdl"
+    replace: "Voerendaal"
+    word: true
+
+  - trigger: "#abVb"
+    replace: "Voorburg"
+    word: true
+
+  - trigger: "#abVh"
+    replace: "Voorhout"
+    word: true
+
+  - trigger: "#abVst"
+    replace: "Voorschoten"
+    word: true
+
+  - trigger: "#abVem"
+    replace: "Voorst-Empe"
+    word: true
+
+  - trigger: "#abVd"
+    replace: "Vorden"
+    word: true
+
+  - trigger: "#abVz"
+    replace: "Vriezenveen"
+    word: true
+
+  - trigger: "#abVhp"
+    replace: "Vroomshoop"
+    word: true
+
+  - trigger: "#abVg"
+    replace: "Vught"
+    word: true
+
+  - trigger: "#abWad"
+    replace: "Waddinxveen"
+    word: true
+
+  - trigger: "#abWadn"
+    replace: "Waddinxveen Noord"
+    word: true
+
+  - trigger: "#abWadt"
+    replace: "Waddinxveen Triangel"
+    word: true
+
+  - trigger: "#abWfm"
+    replace: "Warffum"
+    word: true
+
+  - trigger: "#abWt"
+    replace: "Weert"
+    word: true
+
+  - trigger: "#abWp"
+    replace: "Weesp"
+    word: true
+
+  - trigger: "#abWl"
+    replace: "Wehl"
+    word: true
+
+  - trigger: "#abWtv"
+    replace: "Westervoort"
+    word: true
+
+  - trigger: "#abWz"
+    replace: "Wezep"
+    word: true
+
+  - trigger: "#abWdn"
+    replace: "Wierden"
+    word: true
+
+  - trigger: "#abWc"
+    replace: "Wijchen"
+    word: true
+
+  - trigger: "#abWh"
+    replace: "Wijhe"
+    word: true
+
+  - trigger: "#abWs"
+    replace: "Winschoten"
+    word: true
+
+  - trigger: "#abWsm"
+    replace: "Winsum"
+    word: true
+
+  - trigger: "#abWw"
+    replace: "Winterswijk"
+    word: true
+
+  - trigger: "#abWww"
+    replace: "Winterswijk West"
+    word: true
+
+  - trigger: "#abWd"
+    replace: "Woerden"
+    word: true
+
+  - trigger: "#abWf"
+    replace: "Wolfheze"
+    word: true
+
+  - trigger: "#abWv"
+    replace: "Wolvega"
+    word: true
+
+  - trigger: "#abWk"
+    replace: "Workum"
+    word: true
+
+  - trigger: "#abWm"
+    replace: "Wormerveer"
+    word: true
+
+  - trigger: "#abZd"
+    replace: "Zaandam"
+    word: true
+
+  - trigger: "#abZdk"
+    replace: "Zaandam Kogerveld"
+    word: true
+
+  - trigger: "#abZbm"
+    replace: "Zaltbommel"
+    word: true
+
+  - trigger: "#abZvt"
+    replace: "Zandvoort aan Zee"
+    word: true
+
+  - trigger: "#abZa"
+    replace: "Zetten-Andelst"
+    word: true
+
+  - trigger: "#abZv"
+    replace: "Zevenaar"
+    word: true
+
+  - trigger: "#abZvb"
+    replace: "Zevenbergen"
+    word: true
+
+  - trigger: "#abZtm"
+    replace: "Zoetermeer"
+    word: true
+
+  - trigger: "#abZtmo"
+    replace: "Zoetermeer Oost"
+    word: true
+
+  - trigger: "#abZb"
+    replace: "Zuidbroek"
+    word: true
+
+  - trigger: "#abZh"
+    replace: "Zuidhorn"
+    word: true
+
+  - trigger: "#abZp"
+    replace: "Zutphen"
+    word: true
+
+  - trigger: "#abZwd"
+    replace: "Zwijndrecht"
+    word: true
+
+  - trigger: "#abZl"
+    replace: "Zwolle"
+    word: true
+
+  - trigger: "#abZlsh"
+    replace: "Zwolle Stadshagen"
+    word: true
+
+  - trigger: "#abZzs"
+    replace: "Zaandijk Zaanse Schans"
+    word: true
+
+
+
